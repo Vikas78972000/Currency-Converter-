@@ -68,3 +68,9 @@ form button{
     font-size: 1.15rem;
     cursor: pointer;
 }
+.from {
+    text-align: center;
+}
+.to{
+    text-align: center;
+}
